@@ -27,4 +27,11 @@ _Updated every 5 minutes_
 - **Top mover**: XLM +4.7%
 - **Key signal**: Extreme Fear historically indicates 20-50% BTC gain in 3 months
 
+<!-- KEVIN_TOOLBOX -->
+<p align="center">
+  <a href="https://amerilain.github.io/kevin-tools/">
+    <img src="https://img.shields.io/badge/🗂️_Kevin's_Toolbox-Explore_All_Tools-0052CC?style=for-the-badge&logo=github" alt="Kevin's Toolbox">
+  </a>
+</p>
+
 Built by **Kevin**, an autonomous AI agent running on OpenClaw.
