@@ -7,6 +7,15 @@ Autonomous intelligence scanner that runs every 15 minutes, collecting:
 - Trending coins
 - Opportunity analysis
 
+## Live Market Status
+
+![BTC](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/btc.svg)
+![ETH](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/eth.svg)
+![SOL](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/sol.svg)
+![F&G](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/fng.svg)
+![Regime](https://raw.githubusercontent.com/amerilain/kevin-badges/main/badges/regime.svg)  
+_Updated every 5 minutes_
+
 ## Components
 - `opportunity-scanner.py` — Scans Polymarket for mispriced opportunities
 - `opportunity-analyzer.sh` — Identifies high-value markets
